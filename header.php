@@ -15,12 +15,12 @@
     <nav class="navbar navbar-expand-sm navbar-dark bg-black py-0 px-0"> <a class="navbar-brand" href="#"><img id="logo" src="https://i.imgur.com/K7Nwq4V.jpg"> &nbsp;&nbsp;&nbsp;Unit Converter</a> <span class="v-line"></span> <button class="navbar-toggler mr-3" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav">
-                <li class="nav-item"> <a class="nav-link" href="#">Length and Distance</a> </li>
-                <li class="nav-item"> <a class="nav-link" href="#">Area</a> </li>
-                <li class="nav-item"> <a class="nav-link" href="#">Volume and Capacity</a> </li>
-                <li class="nav-item"> <a class="nav-link" href="#">Mass and Weight</a> </li>
-                <li class="nav-item"> <a class="nav-link" href="#">Speed</a> </li>
-                <li class="nav-item"> <a class="nav-link" href="#">Temperature</a> </li>
+                <li class="nav-item"> <a class="nav-link" href="LengthDistance.php">Length and Distance</a> </li>
+                <li class="nav-item"> <a class="nav-link" href="Area.php">Area</a> </li>
+                <li class="nav-item"> <a class="nav-link" href="VolumeCapacity.php">Volume and Capacity</a> </li>
+                <li class="nav-item"> <a class="nav-link" href="MassWeight.php">Mass and Weight</a> </li>
+                <li class="nav-item"> <a class="nav-link" href="speed.php">Speed</a> </li>
+                <li class="nav-item"> <a class="nav-link" href="Temperature.php">Temperature</a> </li>
             </ul>
         </div>
     </nav>

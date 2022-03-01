@@ -29,46 +29,56 @@
  <span class="count-numbers">Length and Distance</span>
         <span class="count-name"></span>
       </div>
+</a> 
     </div>
 
     <div class="col-md-3">
+    <a href="Area.php">
       <div class="card-counter danger">
         <i class="fa fa-area-chart float-left"></i>
         <span class="count-numbers">Area</span>
         <span class="count-name"></span>
       </div>
+</a>
     </div>
 
     <div class="col-md-3">
+    <a href="Area.php">
       <div class="card-counter success">
         <i class="fa fa-database float-left"></i>
         <span class="count-numbers">Volume and Capacity</span>
         <span class="count-name"></span>
-      </div>
+      </div></a>
     </div>
 
     <div class="col-md-3">
+    <a href="MassWeight.php">
       <div class="card-counter info">
         <i class="fa fa-users float-left"></i>
         <span class="count-numbers">Mass and Weight</span>
         <span class="count-name"></span>
       </div>
+</a>
     </div>
 
     <div class="col-md-3">
+    <a href="speed.php">
       <div class="card-counter purple">
         <i class="fa fa-car float-left"></i>
         <span class="count-numbers">Speed</span>
         <span class="count-name"></span>
       </div>
+</a>
     </div>
 
     <div class="col-md-3">
+      <a href="Temperature.php">
       <div class="card-counter yellow">
         <i class="fa fa-thermometer-full float-left "></i>
         <span class="count-numbers">Temperature</span>
         <span class="count-name"></span>
       </div>
+</a>
     </div>
   </div>
 </div>
